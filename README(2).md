@@ -29,8 +29,8 @@ This project was written in Python 3.0 , using Jupyter Notebook on Vscode . The 
 
 This repo contains 4 files.
 
-- `The coding : Starbucks_Capstone_notebook.ipynb`
-- `The project report : Capstone-Project-Report.pdf` : my project report .
+- The coding : Starbucks_Capstone_notebook.ipynb
+-  The project report : BlogPost Starbucks project.pdf: my project report .
 - The  `Data` which includes:
   - 1. Profile.json
   - 2. Portfolio.json
