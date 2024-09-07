@@ -38,7 +38,7 @@ This repo contains 4 files.
 
 ## Links for project :
 
-- **Code for this project is** [here](https://github.com/Swatichanchal/Starbucks-Capstone-Project/blob/master/Starbucks_Capstone_notebook.ipynb)
+- **Code for this project is** [here](https://github.com/Talal-Alyafai/Starbucks-Capstone-Project/blob/main/Starbucks_Capstone_notebook.ipynb)
 - **Blog Post Report for this project is** [here](https://github.com/Swatichanchal/Starbucks-Capstone-Project/blob/master/Capstone_Project_Report.pdf)
 
 ## Licensing, Authors, Acknowledgements .
